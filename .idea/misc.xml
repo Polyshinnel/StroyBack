@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/drawable/gradient.xml" value="0.22135416666666666" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/drawable/round_style.xml" value="0.203125" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_acept_card.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_auth.xml" value="0.39791666666666664" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_card_shop.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_confirm_code.xml" value="0.25" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_forgotten.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_product_list.xml" value="0.171875" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_qr_scanner.xml" value="0.20520833333333333" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_register.xml" value="0.40520833333333334" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/activity_success_card.xml" value="0.25" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/card_event_unit.xml" value="0.5" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/card_unit.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/card_units.xml" value="0.2015625" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/cardholder_unit.xml" value="0.5" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/event_unit.xml" value="0.5" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_blank.xml" value="0.1875" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_card_holder.xml" value="0.2015625" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_card_tab.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_event_tab.xml" value="0.2015625" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_header_app.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_product_list.xml" value="0.18177083333333333" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_product_unit.xml" value="0.5" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/fragment_unpayed_card.xml" value="0.33" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/product_card_unit.xml" value="0.18177083333333333" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/round_style.xml" value="0.18697916666666667" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/unpayed_card.xml" value="0.5" />
+        <entry key="..\:/Android-proj/RBMBonus/app/src/main/res/layout/unpayed_unit.xml" value="0.5" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/drawable/ic_error_card.xml" value="0.21770833333333334" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/drawable/ic_error_scan.xml" value="0.21770833333333334" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_auth.xml" value="0.33" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_card_shop.xml" value="0.33" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_confirm_code.xml" value="0.25" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_forgotten.xml" value="0.33" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/activity_success_card.xml" value="0.33" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/event_unit.xml" value="0.67" />
+        <entry key="..\:/Projets/RBMBonus/app/src/main/res/layout/fragment_header_app.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
